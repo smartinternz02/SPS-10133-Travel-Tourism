@@ -1,10 +1,9 @@
-PROJECT TITLE : **An Insight on Foreign Tourists Arrivals in India from 2001-2018 
-**
+**PROJECT TITLE :** **An Insight on Foreign Tourists Arrivals in India from 2001-2018**
 
-Number of Dashboards : **5**
+**Number of Dashboards :** **5**
 
 
-**Age & Gender DIstribution Analysis Dashboard : ** https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/AgeGenderDIstributionAnalysisDashboard/AgeGenderDIstributionAnalysisDashboard?publish=yes
+**Age & Gender DIstribution Analysis Dashboard :** https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/AgeGenderDIstributionAnalysisDashboard/AgeGenderDIstributionAnalysisDashboard?publish=yes
 
 
 **Analysis of Foreign Tourists Arrivals Dashboard:** https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/AnalysisofForeignTouristsArrivalsinIndiaDashboard/AnalysisofForeignTouristsArrivalsDashboard?publish=yes
