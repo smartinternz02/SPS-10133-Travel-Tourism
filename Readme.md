@@ -19,7 +19,7 @@
 https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/TouristVisitsAnalysisDashboard/TouristVisitsAnalysisDashboard?publish=yes
 
 
-**Story** : **An Insight on Foreign Tourists Arrivals in India from 2001-2018 **
+**Story** : **An Insight on Foreign Tourists Arrivals in India from 2001-2018**
 https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/AnalysisofForeignTouristsArrivalsinIndiafrom2001-2018/AnInsightonForeignTouristsArrivalsinIndiafrom2001-2018?publish=yes
 
 **Youtube Link :**  https://youtu.be/_vM3qd4NW-U
